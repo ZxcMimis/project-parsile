@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ruslan",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.85.0",
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "prettier": "^3.5.2"
+  }
+}
